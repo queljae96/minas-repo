@@ -1,0 +1,1 @@
+var frase = "uma frase..."
