@@ -31,7 +31,7 @@ if (idade >= 12){
     console.log ("por favor,entre em contato com com a agencia de turismo")
 }
 
-// exercicio 2
+// meu exercicio 
 
 let semaforo = 2
 
